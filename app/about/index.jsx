@@ -4,6 +4,7 @@ export default function IndexPage() {
   return (
     <div>
       <h1>welcome to my page</h1>
+      <IndexPage />
     </div>
   );
 }
